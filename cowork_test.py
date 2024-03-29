@@ -12,4 +12,4 @@ def jmk():
 
 # [TO DO] 유선 본인 인사 print 하는 함수 작성
 def yys():
-    pass
+    print('hello from northeast')
