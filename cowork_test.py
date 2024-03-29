@@ -8,7 +8,7 @@ def ljc():
 
 # [TO DO] 민경 본인 인사 print 하는 함수 작성
 def jmk():
-    pass
+    return "안녕하세요 JMK입니다."
 
 # [TO DO] 유선 본인 인사 print 하는 함수 작성
 def yys():
