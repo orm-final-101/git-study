@@ -1,6 +1,6 @@
 # [TO DO] 은선 본인 인사 print 하는 함수 작성
 def esc():
-    pass
+    print("Hello, I'm ESC")
 
 # [TO DO] 재철 본인 인사 print 하는 함수 작성
 def ljc():
